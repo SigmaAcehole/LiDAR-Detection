@@ -3,11 +3,11 @@ This README explains how to use ROS2 package made to locate doors and openings f
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="position: relative; padding: 0;">
-      <img src="video/video.gif" width="100%" style="display:block;">
-      <img src="video/demo.gif"
-           width="100%"
-           style="position:absolute; top:0; left:0;">
+    <td width="50%" align="center" style="padding:0;">
+      <img src="video/video.gif" width="100%">
+    </td>
+    <td width="50%" align="center" style="padding:0;">
+      <img src="video/demo.gif" width="100%">
     </td>
   </tr>
 </table>
