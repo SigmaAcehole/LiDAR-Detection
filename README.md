@@ -7,7 +7,7 @@ This README explains how to use ROS2 package made to locate doors and openings f
       <img src="video/video.gif" width="100%">
     </td>
     <td width="50%" align="center" style="padding:0;">
-      <img src="video/demo.gif" width="100%">
+      <img src="video/demo2.gif" width="100%">
     </td>
   </tr>
 </table>
