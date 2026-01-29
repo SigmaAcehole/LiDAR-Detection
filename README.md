@@ -1,5 +1,11 @@
-# ROS2 Implementation
-This README explains how to use ROS2 package made to locate doors and openings from Velodyne LiDAR point cloud. The implementation was made using computer vision algorithms. However, work done with the deep learning model i.e. PointNet++ is also provided. To understand how to train and test on it, refer `PointNet2/README.md`. 
+# Locating doors and windows from LiDAR point cloud
+This repository has the ROS2 implementation of the computer vision algorithm I designed to locate doors and windows from indoor LiDAR point cloud in real-time. This feature is part of a broader project aimed at developing robots that can assist firefighters in indoor fire rescue operations. Cameras are ineffective due to smoke in these environments. The project was a collaboration between Saxion University of Applied Science, University of Twente and 4 Dutch fire departments.
+
+<p align="center">
+  <img src="video/robots.jpeg" width=80%>
+  <br>
+  <em>Quadruped and mobile robots used in the project.</em>
+</p>
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -11,7 +17,11 @@ This README explains how to use ROS2 package made to locate doors and openings f
     </td>
   </tr>
 </table>
+<p align="center">
+  <em><i>Wait for the demo to load.</i></em>
+</p>
 
+This README explains how to use ROS2 package made to locate doors and openings from Velodyne LiDAR point cloud. The implementation was made using classical computer vision algorithms. However, work done with the deep learning model i.e. PointNet++ is also provided. To understand how to train and test on it, refer `PointNet2/README.md`. 
 
 ## Tested Environment
 1. OS: Ubuntu 22.04 LTS (Used WSL2 but dual-boot should work as well) 
